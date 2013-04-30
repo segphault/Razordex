@@ -1,0 +1,32 @@
+
+@model Pokemon
+
+<html>
+<head>
+	<link type="text/css" rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+	<div class="container">
+		<div class="header">Type</div>
+		<table class="data">
+			<tr><td><b>Primary:</b></td><td>@Model.primary_type</td></tr>
+			<tr><td><b>Secondary:</b></td><td>@Model.secondary_type</td></tr>
+		</table>
+	</div>
+	
+	<div class="container">
+		<div class="header">Ability</div>
+		<table class="data">
+			<tr><td><b>Primary:</b></td><td>@Model.primary_ability</td></tr>
+			<tr><td><b>Secondary:</b></td><td>@Model.secondary_ability</td></tr>
+		</table>
+	</div>
+
+	<div class="container">
+		<div class="header">Description</div>
+		<div class="content">@Model.biography</div>
+	</div>
+
+</body>
+</html>

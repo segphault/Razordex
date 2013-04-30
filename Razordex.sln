@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razordex", "Razordex\Razordex.csproj", "{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Release|iPhone.Build.0 = Release|iPhone
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AE306DF2-5EB5-4163-BCF3-840A7DCA6108}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Razordex\Razordex.csproj
+	EndGlobalSection
+EndGlobal
